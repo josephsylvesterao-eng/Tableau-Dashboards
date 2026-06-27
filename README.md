@@ -1,2 +1,17 @@
-# Tableau-Dashboards
-Interactive Tableau dashboards and business intelligence reports.
+# Tableau Dashboards
+
+Interactive Tableau dashboards created for business analysis.
+
+## Skills
+
+- Data Visualization
+
+- Interactive Dashboards
+
+- KPI Reporting
+
+- Sales Analysis
+
+Tools Used
+
+- Tableau Desktop
